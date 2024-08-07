@@ -129,7 +129,7 @@
 
 ###
 
-### <img src="https://media.giphy.com/media/1pUvx2WHilZYxZ60e1/giphy.gif?cid=790b7611mfzwfwqzvdba76pwouq6whyip177lzveytjdmvvp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Profile views
+### <img src="https://media.giphy.com/media/GByPm7TUS6NrQkDagZ/giphy.gif?cid=790b7611ez96a6o6w43l0f6lijnmswe2lfetozfhk0pguo1e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Profile views
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/JehanSilva/count.svg?"  />
